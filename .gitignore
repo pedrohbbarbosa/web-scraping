@@ -1,5 +1,5 @@
 *.parquet
 *.csv
 *.pkl
-*.json
+.json
 
